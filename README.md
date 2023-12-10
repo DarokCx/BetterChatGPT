@@ -134,7 +134,7 @@ One click deploy with Vercel
 ### Running it locally
 
 1. Ensure that you have the following installed:
-
+ 
    - [node.js](https://nodejs.org/en/)
    - [yarn](https://yarnpkg.com/) or [npm](https://www.npmjs.com/)
 
